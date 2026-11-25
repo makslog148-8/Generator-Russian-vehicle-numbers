@@ -65,6 +65,7 @@ python -m http.server 8765
 
 ## Структура проекта
 
+```text
 russian-plate-designer/
 ├── index.html
 ├── styles.css
@@ -77,6 +78,7 @@ russian-plate-designer/
     └── fonts/
         ├── GOST-R-50577-93.ttf
         └── LICENSE.txt
+```
 
 ## Шрифт и лицензия
 
